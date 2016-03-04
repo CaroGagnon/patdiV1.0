@@ -630,7 +630,7 @@ SOCIAL ICON
 
 .video-section {
     background: url(../images/video-bg.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: inherit;
     position: relative;
     min-height: 500px;
 }
