@@ -531,7 +531,8 @@ SOCIAL ICON
 
 .navbar-custom .navbar-brand {
     font-weight: 700;
-    font-size: 18px;
+    font-size: 24px;
+    font-family: Cambria;
 }
 
 .navbar-custom .nav .open > a,
@@ -629,8 +630,8 @@ SOCIAL ICON
 /* === Video Section === */
 
 .video-section {
-    background: url(../images/video-bg.jpg) no-repeat center center;
-    background-size: inherit;
+    /*background: url(../images/video-bg.jpg) no-repeat center center;*/
+    background-size: cover;
     position: relative;
     min-height: 500px;
 }
